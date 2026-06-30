@@ -224,6 +224,7 @@ These notes are useful for:
 # Author
 
 **Priyansh Bari**
+
 GitHub: https://github.com/Priyansh-Bari
 
 ---
