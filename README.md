@@ -224,9 +224,6 @@ These notes are useful for:
 # Author
 
 **Priyansh Bari**
-
-Cloud Infrastructure Engineer | Azure | Windows Server | Linux | Networking
-
 GitHub: https://github.com/Priyansh-Bari
 
 ---
