@@ -1,4 +1,4 @@
-# Cisco CCNA (200-301)
+# Cisco Certified Network Associate (200-301)
 
 ---
 
